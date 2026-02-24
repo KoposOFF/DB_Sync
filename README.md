@@ -69,8 +69,8 @@ pip install -r requirements.txt
 В файле `main.py` необходимо указать строки подключения:
 
 ```python
-db1 = "postgresql://user:password@localhost:5432/test_db"
-db2 = "postgresql://user:password@localhost:5432/prod_db"
+db1 = "postgresql://user:password@localhost:5432/test_db" "Эталонная"
+db2 = "postgresql://user:password@localhost:5432/prod_db" "Рабочая/Действующая"
 ```
 
 ---
