@@ -45,7 +45,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone git@github.com:KoposOFF/DB_Sync.git
+git clone https://github.com/KoposOFF/DB_Sync.git
 cd db_sync_test
 ```
 
